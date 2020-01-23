@@ -1,2 +1,4 @@
 # hello-world
-First repository :)
+Let's build some cool stuff. 
+Let's change the world. 
+
